@@ -6,10 +6,10 @@
 
 <h3 align="left"><b>Connect with me:</b></h3>
 <p align="left" >
-<a href="mailto:omar.mohamed011@eng-st.cu.edu.eg">
+<a href="mailto:omarmohamed2322000@gmail.com">
   <img align="left" height="30" width="40" src="https://user-images.githubusercontent.com/56788883/152502680-84c9341e-93cf-4ec9-98a2-e61fd8440eb1.png" draggable="false" />
 </a>
-<a href="https://www.linkedin.com/in/omar-mohamed-a829951a1">
+<a href="https://www.linkedin.com/in/omar214">
   <img align="left" height="30" width="40" src="https://user-images.githubusercontent.com/56788883/152502595-53ec1266-fc24-4487-8e20-185ce8ca1bb4.png" draggable="false" />
 </a>
 
